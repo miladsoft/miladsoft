@@ -6,8 +6,6 @@ Most of my spare time I dedicate to working on open source projects that help pr
 
 
 - 🔨 I’m currently working on **SeniorBlockchain Platform** and the decentralized Identity registry.
-- 👯 I’m looking to collaborate on [SeniorBlockchain](https://www.SeniorBlockchain.io) 
-- 🤔 I’m looking for help with SeniorBlockchain.
 - 💬 Ask me about blockchain on .NET, Angular, APIs, TypeScript and more.
 - 💌 How to reach me, check my [Instagram Page](https://instagram.com/milad._.raeisi) and [Telegram Account](https://t.me/miladsoft).
 - ⚡ Fun fact: I do a little bit of everything.
