@@ -1,25 +1,46 @@
 # Hello, hei! 💛🖤
 
-### My name is ✨**Milad Raeisi**✨
+## I'm ✨**Milad Raeisi**✨
 
-I'm Milad Raeisi, a seasoned programmer, developer, and software architect. My expertise spans software development, UI/UX design, data science, AI, and blockchain technologies. As a dedicated member of Blockcore, I focus on creating cutting-edge tools for blockchain and Bitcoin, with a mission to drive decentralization across all domains.
+I'm a passionate software architect, developer, and UI/UX designer with a strong focus on decentralized technologies, blockchain, and AI. As a core member of **Blockcore**, my mission is to push the boundaries of decentralization and blockchain innovation.
 
-Most of my spare time is dedicated to working on open-source projects that help propel humanity and society forward in a positive direction ✌️.
+Currently, I am working on **Angor**, a **decentralized Bitcoin crowdfunding platform** that empowers creators and investors alike through Bitcoin's decentralized network.
 
-- 🔨 I’m currently working on **SeniorBlockchain Platform** and the decentralized Identity registry.
-- 💬 Ask me about blockchain on .NET, Angular, APIs, TypeScript, and more.
-- 🌐 Check out my personal website: [miladraeisi.com](https://miladraeisi.com)
-- 📬 How to reach me: [Instagram Page](https://instagram.com/milad._.raeisi) and [Telegram Account](https://t.me/miladsoft).
-- ⚡ Fun fact: I do a little bit of everything.
+I dedicate most of my time to building open-source projects that empower society and inspire positive change in the world 🌍. My journey in technology has led me to specialize in several fields, including:
 
+- **Blockchain Development** (Bitcoin, Decentralized Identity, Web3)
+- **Software Architecture** (Full-stack development, TypeScript, APIs, .NET, C#)
+- **AI & Data Science** (Building intelligent systems and data-driven applications)
+- **UI/UX Design** (Crafting intuitive and engaging user experiences)
+
+---
+
+### 🔨 Currently Building
+I'm currently working on:
+- **Angor** – Decentralized Bitcoin crowdfunding platform.
+- **SeniorBlockchain Platform** – Decentralizing identity for a better, more secure future.
+- **Open-source contributions** – Helping advance the blockchain ecosystem.
+
+---
+
+### 🌐 Get in Touch
+Feel free to connect with me on social platforms:
+- [Visit my Website](https://miladraeisi.com)
+- [Follow me on Instagram](https://instagram.com/milad._.raeisi)
+- [Message me on Telegram](https://t.me/miladsoft)
+
+---
+
+### 📊 GitHub Stats
 ![Miladsoft's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miladsoft&count_private=true&theme=dark)
 
 ---
 
-### Top GitHub Contributor in Oman 🇴🇲
+## 🇴🇲 Proudly Oman’s Top GitHub Contributor
+As the **top GitHub contributor in Oman**, I strive to lead by example, inspiring others to contribute to open-source and blockchain technologies.
 
-I am proud to be recognized as the top GitHub contributor in Oman! 🎉
+Check out the [list of top GitHub contributors in Oman](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/oman.md) to explore more from fellow developers. 🎉
 
-Check out the [list of top GitHub contributors in Oman](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/oman.md) to see my contributions and those of other amazing developers.
+---
 
- 
+⚡ *Fun fact*: I’m always exploring new challenges and learning something new!
