@@ -36,11 +36,4 @@ Feel free to connect with me on social platforms:
 
 ---
 
-## 🇴🇲 Proudly Oman’s Top GitHub Contributor
-As the **top GitHub contributor in Oman**, I strive to lead by example, inspiring others to contribute to open-source and blockchain technologies.
-
-Check out the [list of top GitHub contributors in Oman](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/oman.md) to explore more from fellow developers. 🎉
-
----
-
 ⚡ *Fun fact*: I’m always exploring new challenges and learning something new!
